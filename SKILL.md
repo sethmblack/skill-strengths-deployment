@@ -1,10 +1,9 @@
 ---
 name: strengths-deployment
-description: Identify signature character strengths and design daily practices to
-  deploy them in work and life, increasing engagement, satisfaction, and performance.
+description: Identify signature character strengths and design daily practices to deploy them in work and life, increasing engagement, satisfaction, and performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - comedy
